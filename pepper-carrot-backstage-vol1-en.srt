@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:03,753
 Morevna Project presents
 
@@ -8,27 +8,27 @@ Morevna Project presents
 
 3
 00:00:10,553 --> 00:00:13,234
-created by a French artist David Revoy.
+by a French artist David Revoy.
 
 4
 00:00:13,714 --> 00:00:17,536
-David makes the comic and our team produces its animated version.
+David is original author of the comic and our team produces its animated version.
 
 5
 00:00:17,561 --> 00:00:20,085
-Now we are working on a new episode,
+Right now we are working on a new episode,
 
 6
 00:00:20,126 --> 00:00:22,641
-And it is already at the phase of Production.
+and it is already at the production phase.
 
 7
 00:00:23,325 --> 00:00:27,251
-I can describe in general terms the steps we go trough
+I can briefly describe the main steps we go trough
 
 8
 00:00:27,276 --> 00:00:31,584
-To make a comic an animated one.
+to make a comic an animated one.
 
 9
 00:00:34,000 --> 00:00:37,444
@@ -36,19 +36,19 @@ Firstly, the director makes a draft animation
 
 10
 00:00:37,469 --> 00:00:43,273
-out of moveless pictures, decides on the duration of each frame
+out of static pictures. Here he defines the duration of each scene
 
 11
 00:00:43,298 --> 00:00:47,614
-and on the general directions of moves made by the characters and other objects in the frame.
+and outlines how characters and other objects are moving in the scene.
 
 12
 00:00:47,639 --> 00:00:52,110
-The author draws some picture and it does already imply 
+The scene drawn by author is already imply 
 
 13
 00:00:52,135 --> 00:00:56,270
-Some movement in itself. The director has to track this movement
+some movement in itself. The director has to analyze this movement
 
 14
 00:00:56,295 --> 00:00:59,180
@@ -56,35 +56,35 @@ and to understand what did the author mean by it.
 
 15
 00:00:59,275 --> 00:01:02,724
-Meanwhile we record a draft voice acting
+At the same time we recording a draft voice soundtrack.
 
 16
 00:01:02,749 --> 00:01:06,875
-We just record reading the text aloud.
+We just reading the text aloud here.
 
 17
 00:01:06,876 --> 00:01:08,391
-Good morning, Sir
+Good morning Sir,
 
 18
 00:01:08,416 --> 00:01:10,868
-Could I have eight of these pumpkin stars? 
+I would like eight pumpkin stars, please 
 
 19
 00:01:10,893 --> 00:01:13,851
-Here. 60 Ko for all of them.
+Here you are. That's 60 Ko.
 
 20
 00:01:13,876 --> 00:01:16,169
-oops...
+Oh dear...
 
 21
 00:01:17,574 --> 00:01:21,362
-I am sorry I will have only four of them.
+Uhh sorry, I'll have to take only four.
 
 22
 00:01:21,387 --> 00:01:22,553
-Rhrr!
+Grrr!
 
 23
 00:01:22,578 --> 00:01:25,849
@@ -92,19 +92,19 @@ We read aloud and record the words to understand
 
 24
 00:01:25,874 --> 00:01:29,593
-How much time the dialog would take and get its tempo right.
+how much time the dialog would take and get its tempo right.
 
 25
 00:01:29,634 --> 00:01:32,325
-Simultaneously, we choose the music.
+Simultaneously, we selecting the music tracks.
 
 26
 00:01:32,350 --> 00:01:35,831
-That is to say we create a soundtrack draft and
+So, we create a draft soundtrack and
 
 27
 00:01:35,856 --> 00:01:38,139
-Combine it with the draft visual.
+combine it with the draft visual.
 
 28
 00:01:38,164 --> 00:01:41,331
@@ -116,7 +116,7 @@ It gives us the overall picture
 
 30
 00:01:43,507 --> 00:01:47,507
-and the general idea of what we need to do.
+and the general idea of what animators need to do.
 
 31
 00:01:48,506 --> 00:01:50,230
@@ -132,51 +132,51 @@ Let's win this challenge!
 
 34
 00:01:55,434 --> 00:01:58,980
-Sometimes we add some new scenes, we discuss how to get
+During this process we discuss how we could
 
 35
 00:01:59,005 --> 00:02:02,508
-the best of some things that can be perfectly understandable in the comic
+improve some moments that can be perfectly understandable in the original comic
 
 36
 00:02:02,533 --> 00:02:06,291
-But need some correction when turned into an animation. 
+but need some clarifications when turned into an animation. 
 
 37
 00:02:06,316 --> 00:02:10,316
-We have the comic, and it has already been directed, hasn't it?
+So we have the comic, and in fact it has already been directed by author, right?
 
 38
 00:02:10,341 --> 00:02:14,341
-The artist drew all of these scenes and arranged them in the right order.
+The artist drew all of these scenes and arranged them on the page.
 
 39
 00:02:14,756 --> 00:02:19,178
-However while editing I understand that some of these scenes
+However while transforming all this into animated sequence I see that some of these scenes
 
 40
 00:02:19,203 --> 00:02:24,125
-need an interlink to connect the previous one to the next.
+need something in between, which will connect previous scene with next one.
 
 41
 00:02:24,150 --> 00:02:30,204
-That why sometimes I have to come up with something and to draw some extra details.
+That why sometimes I am thinking how to improve the sequence by adding new elements or even whole shots.
 
 42
 00:02:30,229 --> 00:02:34,378
-Take for instance this scene with Saffron and coins.
+For instance, let's look at this scene with Saffron and coins.
 
 43
 00:02:34,403 --> 00:02:37,354
-I thought it would be great to take a close-up
+I thought it would be nice to take a close-up
 
 44
 00:02:37,379 --> 00:02:39,775
-of them and her tossing them.
+and show her tossing them.
 
 45
 00:02:39,959 --> 00:02:44,338
-There's nothing of this in the comic, but it links the frames
+There's no such frame in the original comic, but it connects the scenes
 
 46
 00:02:44,363 --> 00:02:48,862
@@ -184,23 +184,23 @@ that were there quite well.
 
 47
 00:02:48,887 --> 00:02:51,894
-All these done, we take up the phase of Production.
+When the animatic is ready, we step into the Production phase.
 
 48
 00:02:51,919 --> 00:02:55,919
-I am the director of the project. I know which aim
+As director of this episode, I have the whole picture in my head
 
 49
 00:02:55,944 --> 00:02:59,632
-every single scene serves. Having arranged all of them, I assign
+and know how every single scene serves. After all scenes arranged into animatic I am starting to assign the tasks
 
 50
 00:02:59,657 --> 00:03:03,657
-the tasks for the animators and artists.
+to painters and animators.
 
 51
 00:03:08,759 --> 00:03:12,077
-Every picture is to be cut into several parts.
+Every picture has to be cut into parts.
 
 52
 00:03:12,102 --> 00:03:15,861
@@ -208,15 +208,15 @@ The characters should be separated from the background.
 
 53
 00:03:15,886 --> 00:03:20,569
-Then we must add some details to the objects or characters, 
+Then we must reconstruct missing parts of the characters or objects, 
 
 54
 00:03:20,594 --> 00:03:23,905
-As, characters removed from the background,
+because when characters removed from the background,
 
 55
 00:03:23,930 --> 00:03:26,513
-We must fill the empty space left behind them.
+we must fill the empty space left behind them.
 
 56
 00:03:26,538 --> 00:03:30,997
@@ -224,71 +224,71 @@ If a character is meant to move, then some parts of this character
 
 57
 00:03:31,022 --> 00:03:34,450
-are also to be added and drawn by us. In a moveless picture someone's 
+are also has to be reconstructed and drawn by us. For example in a static picture hand of the character
 
 58
 00:03:34,475 --> 00:03:37,267
-can be hidden by another object but if the character is walking
+can be hidden beyond another object. And if the character is moving the hand
 
 59
 00:03:37,292 --> 00:03:39,251
-the hand must be also drown by us.
+then it must be also should be drawn by us.
 
 60
 00:03:39,276 --> 00:03:41,712
-Blinking is an ordinary case. We have to draw
+Another common case is blinking. We have to draw
 
 61
 00:03:41,737 --> 00:03:44,656
-Closed eyes, opened eyes and half-opened eyes.
+closed eyes, opened eyes and half-opened eyes.
 
 62
 00:03:44,681 --> 00:03:47,037
-I always try to assign as little work as I can
+I always try to carefully analyze each scene, and formulate a task in such way which minimizes possible effort of the artist
 
 63
 00:03:47,062 --> 00:03:50,450
-as it would be done faster, as I already now what is to be moved
+because I already know which elements are going to be animated
 
 64
 00:03:50,475 --> 00:03:53,228
-And what is not. I just ask 
+and which are not. So I just ask 
 
 65
 00:03:53,253 --> 00:03:56,331
-For this head to be cut and that part not to be.
+this part should be separated and that part should not to be.
 
 66
 00:03:56,356 --> 00:03:59,029
-This is what our artists do.
+This task is done by our painting artists.
 
 67
 00:03:59,054 --> 00:04:02,482
-My task is to draw the lacking parts
+My task is to draw the missing parts
 
 68
 00:04:02,507 --> 00:04:05,974
-and prepare all materials for the animation.
+and prepare artwork for the animation.
 
 69
 00:04:06,823 --> 00:04:11,694
-We use an open source program Krita for drawing and editing pictures.
+For drawing and editing pictures we use an Krita open source software.
 
 70
 00:04:12,062 --> 00:04:16,534
-I draw the characters, the position of eyes and mouth
+I drawing missing details for the characters, the positions of eyes and mouth positions,
 
 71
 00:04:16,559 --> 00:04:21,337
-the background and some other details 
+also I drawing backgrounds and some other elements.
 
 72
 00:04:21,362 --> 00:04:26,297
-for everything to be smooth and for the animator to be more comfortable to work.
+After all those operations animators will be able to create movement of those artwork pieces.
 
 73
 00:04:26,322 --> 00:04:31,077
-Sometimes I have to edit some frames from the comic
+In some cases we have to redraw some frames of the comic
 
 74
 00:04:31,102 --> 00:04:36,672
@@ -296,27 +296,27 @@ and the changes can be quite dramatic.
 
 75
 00:04:36,697 --> 00:04:40,680
-Sometimes we can change the lighting 
+Sometimes we can even change the lighting 
 
 76
 00:04:40,705 --> 00:04:45,521
-or composition of the frame. For instance in the sixth scene
+or composition of the frame. For instance in the sixth scene...
 
 77
 00:04:46,769 --> 00:04:48,791
-I am sorry I will have only four of them.
+Uhh sorry, I'll have to take only four.
 
 78
 00:04:48,816 --> 00:04:50,339
-Rhrr!
+Grrr!
 
 79
 00:04:50,364 --> 00:04:51,847
-Good morning, dearest sir!
+Greetings, good Sir!
 
 80
 00:04:51,872 --> 00:04:57,085
-We decided to remove the fruits and veg to make an emphasis on the character
+We decided to remove the fruits and veg to make an emphasis on the characters.
 
 81
 00:04:57,110 --> 00:05:00,497
@@ -324,7 +324,7 @@ There were too much details and the scene was too overloaded.
 
 82
 00:05:00,522 --> 00:05:04,783
-So we redesigned the market a bit
+So we redesigned the composition
 
 83
 00:05:04,808 --> 00:05:07,521
@@ -332,67 +332,67 @@ and extended the background to take a panoramic shot.
 
 84
 00:05:07,546 --> 00:05:10,537
-It was very important to keep the author's style
+Of course, it was very important to keep the original author's style
 
 85
 00:05:10,562 --> 00:05:15,482
-and make it work with the other drawings in harmony.
+and make it fit with all other drawings.
 
 86
 00:05:17,727 --> 00:05:23,497
-Then we import all these pictures into Blender.
+On the next stage we import all artwork into Blender.
 
 87
 00:05:24,428 --> 00:05:28,428
-To scene has to be done right, everything must be prepared
+We have to arrange all pieces correctly, put everything in place
 
 88
 00:05:28,453 --> 00:05:32,642
-for us to link the parts we need with the bones.
+and link all the parts to the bones.
 
 89
 00:05:32,667 --> 00:05:35,855
-This is the work for a rigger and a scene assembler
+This work is done by rigger, the same person who responsible for assembling scene.
 
 90
 00:05:35,880 --> 00:05:40,243
-In our team it is done by the same person.
+In this project we have same person responsible for assembling scenes and rigging.
 
 91
 00:05:41,539 --> 00:05:47,664
-For the preparing we use a plug-in call CoaTools.
+We use CoaTools plugin to simplify the process of preparing artwork for animation.
 
 92
 00:05:51,452 --> 00:05:56,394
-The animators do the final version of what you will see on the screen.
+The animators do the final version of movement, what you actually will see on the screen.
 
 93
 00:05:56,419 --> 00:06:01,990
-The animating is the most labor-intensive step. Every single bit of attention
+The animation is the most time-consuming phase. Here we concentrate on
 
 94
 00:06:02,015 --> 00:06:06,243
-is being paid to creating of movements, for them to look good,
+creating the actual movement. We have to make sure it looks good.
 
 95
 00:06:06,268 --> 00:06:10,013
-to fulfill the director's idea and fit the tempo
+The movement should fulfill the director's idea and fit the tempo
 
 96
 00:06:10,038 --> 00:06:13,347
-and composition of the animatic.
+and composition defined in animatic.
 
 97
 00:06:13,372 --> 00:06:17,372
-The animator works the movement trough and add some details.
+The animator develops the main movement with all necessary details.
 
 98
 00:06:17,397 --> 00:06:21,397
-If a character is walking then they must have their legs
+If a character is walking then they must have move their legs
 
 99
 00:06:21,422 --> 00:06:26,918
-arms, shoulders and head moving. And if they are speaking, they must have
+arms, shoulders and head. And if they are speaking, they must have
 
 100
 00:06:26,943 --> 00:06:29,955
@@ -400,27 +400,27 @@ their lips moving and eyes blinking,
 
 101
 00:06:29,980 --> 00:06:34,272
-The hair and clothes also move as the character moves.
+The hair and clothes also should move as the character moves.
 
 102
 00:06:34,297 --> 00:06:36,891
-We use the program Blender for the animating.
+For animation we use Blender.
 
 103
 00:06:36,916 --> 00:06:40,463
-Blender is a powerful program for creating
+Blender is known as a powerful open-source software for creating
 
 104
 00:06:40,488 --> 00:06:46,455
-3D animation and models. But we use it to create an animated comic.
+3D animation and models. But in this project we use it to create an 2D animated comic.
 
 105
 00:06:46,480 --> 00:06:51,216
-It fits this purpose quite well..
+It fits this purpose quite well.
 
 106
 00:06:51,241 --> 00:06:55,264
-Especially being used together with the plug-in called CoaTools.
+Especially being used together with the CoaTools plug-in.
 
 107
 00:06:55,289 --> 00:06:59,331
@@ -428,139 +428,139 @@ There are some more peculiar things in our work.
 
 108
 00:06:59,355 --> 00:07:03,220
-For example our animators also work with Particle Systems.
+For example creating special effects with Particle Systems.
 
 109
 00:07:03,245 --> 00:07:05,164
-No point in drawing the smoke when we can create
+There is no point in drawing the smoke when we can create it
 
 110
 00:07:05,189 --> 00:07:09,093
-a beautiful smoke simulation in two clicks.
+using simulation in just two clicks.
 
 111
 00:07:09,118 --> 00:07:13,537
-Some really small details, small effects, particles and the wind.
+We often use particle systems for creating some small effects, like dust on the wind, sparkles, etc.
 
 112
 00:07:13,562 --> 00:07:18,299
-We apply them to the backgrounds very often.
+They look very good and entertaining on backgrounds.
 
 113
 00:07:20,958 --> 00:07:23,656
-After the animation is finished, of course,
+And of course after the animation is finished
 
 114
 00:07:23,681 --> 00:07:27,259
-there will be a final voicing. The cartoon will be shown
+there will be a final voicing. We send the final animation to the actors
 
 115
 00:07:27,284 --> 00:07:30,910
-the actors who will do the professional voice acting.
+who will do the professional voicing.
 
 116
 00:07:30,935 --> 00:07:35,831
-They record the voices which are to be mixed to the sound effects 
+They record the voices, then everything is mixed with the sound effects and music 
 
 117
 00:07:35,856 --> 00:07:38,886
-And only then we will have a finished cartoon.
+and then we will have a finished episode.
 
 118
 00:07:42,513 --> 00:07:47,091
-The process of our production can be perfectly seen-trough.
+Our production process is completely transparent.
 
 119
 00:07:47,116 --> 00:07:52,086
-We will leave a link in the description of this video. You can follow it
+There is a link in the description of this video, which points to our list of tasks.
 
 120
 00:07:52,111 --> 00:07:56,111
-and see the list of tasks we are currently working on.
+You can open it and see what we are currently working on.
 
 121
 00:07:56,136 --> 00:07:59,524
-See precisely who is working on each one
+You can see precisely who is working on which task.
 
 122
 00:07:59,549 --> 00:08:03,291
-track the process of its completing and the discussion in its topic.
+And see the process of work and discussion in its topic.
 
 123
 00:08:03,316 --> 00:08:09,864
-For example there we can see a task for animating
+For example here we can see a task for animation.
 
 124
 00:08:09,889 --> 00:08:13,889
-we cal see all interim variants which are discussed with the director
+We can see all intermediate versions which are discussed with the director.
 
 125
 00:08:13,914 --> 00:08:18,328
-And how we get this final variant.
+And here is the final variant.
 
 126
 00:08:18,353 --> 00:08:22,970
-Another example, here we have preparing of a picture for animation
+Or here is another example - the task for preparing artwork
 
 127
 00:08:22,995 --> 00:08:28,804
-There we have a precise task how to cut this picture.
+There we have a task description which explains how to cut this picture.
 
 128
 00:08:28,829 --> 00:08:33,906
-The artist post the interim steps of the work
+The artist posts the interim steps of the work
 
 129
 00:08:33,931 --> 00:08:37,931
-for everybody to be able to see and discuss it.
+for everybody to be able to see and other team members can discuss it.
 
 130
 00:08:37,956 --> 00:08:41,653
-If something is wrong the director can intervene or make
+The director can make corrections here
 
 131
 00:08:41,678 --> 00:08:44,780
-some correction or say "everything is great"
+or say "everything is great".
 
 132
 00:08:45,466 --> 00:08:50,599
-At the moment we are working on the third episode. It's a simple one
+At the moment we are working on the third episode. This episode is not complicated one
 
 133
 00:08:50,624 --> 00:08:54,511
-if one were to compare it to the previous. However I think that it will take us
+comparing to the previous. However I think that it will take us
 
 134
 00:08:54,536 --> 00:08:58,536
-about four months to finish it. Which episode is to be done next
+about four months to finish it. We plan to start production of another episode in parallel soon.
 
 135
 00:08:58,561 --> 00:09:03,139
-will be decided by voting of our sponsors
+And which episode it will be - will be decided by voting of our sponsors
 
 136
 00:09:03,164 --> 00:09:06,013
-who support us on Patreon.
+who support us on Patreon platform.
 
 137
 00:09:06,038 --> 00:09:10,038
-We will keep on tracking of the process of working on this episode
+We will continue showing our process of work in upcoming backstage videos.
 
 138
 00:09:10,063 --> 00:09:13,530
-and the next ones. If you want to keep up with our work
+Also you can track our progress
 
 139
 00:09:13,555 --> 00:09:17,181
-you can follow us in social networks.
+by following us in social networks.
 
 140
 00:09:17,206 --> 00:09:20,752
-All the links are in description.
+See all relevant links in the description of this video.
 
 141
 00:09:20,777 --> 00:09:24,014
-That was all. Thank you for your attention and see you later in the next episodes.
+And that was all for today! Thank you for watching and see you next time.
 
 142
 00:09:24,039 --> 00:09:28,039

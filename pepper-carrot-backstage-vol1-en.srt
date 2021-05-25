@@ -1,564 +1,569 @@
-1
-0:00:00,000 --> 0:00:03,753
+﻿1
+00:00:00,410 --> 00:00:04,160
 Morevna Project presents
 
 2
-0:00:07,370 --> 0:00:10,522
+00:00:07,780 --> 00:00:10,930
 “Pepper & Carrot” is an animated adaptation of a comic
 
 3
-0:00:10,553 --> 0:00:13,234
+00:00:10,960 --> 00:00:13,640
 by the French artist David Revoy.
 
 4
-0:00:13,760 --> 0:00:17,582
+00:00:14,170 --> 00:00:17,970
 David is the original author of the comic and our team is producing an animated version.
 
 5
-0:00:17,561 --> 0:00:20,085
+00:00:17,970 --> 00:00:17,990
 Right now we are working on a new episode,
+David is the original author of the comic and our team is producing an animated version.
 
 6
-0:00:20,126 --> 0:00:22,641
-and it is already at the production phase.
+00:00:17,990 --> 00:00:20,490
+Right now we are working on a new episode,
 
 7
-0:00:23,325 --> 0:00:27,251
-I can briefly describe the main steps we go through
+00:00:20,530 --> 00:00:23,050
+and it is already at the production phase.
 
 8
-0:00:27,276 --> 0:00:31,584
-to make an animation from the comic
+00:00:23,730 --> 00:00:27,660
+I can briefly describe the main steps we go through
 
 9
-0:00:34,000 --> 0:00:37,444
-First, the director makes a draft animation
+00:00:27,680 --> 00:00:31,990
+to make an animation from the comic
 
 10
-0:00:37,469 --> 0:00:43,273
-out of static pictures. Here he defines the duration of each scene
+00:00:34,410 --> 00:00:37,850
+First, the director makes a draft animation
 
 11
-0:00:43,298 --> 0:00:47,614
-and outlines how characters and other objects are moving in the scene.
+00:00:37,870 --> 00:00:43,680
+out of static pictures. Here he defines the duration of each scene
 
 12
-0:00:47,639 --> 0:00:52,110
-The scene drawn by the author already implies
+00:00:43,700 --> 00:00:48,020
+and outlines how characters and other objects are moving in the scene.
 
 13
-0:00:52,135 --> 0:00:56,270
-some movement in itself. The director has to analyze this movement
+00:00:48,040 --> 00:00:52,520
+The scene drawn by the author already implies
 
 14
-0:00:56,295 --> 0:00:59,180
-and to understand what the author meant by it.
+00:00:52,540 --> 00:00:56,680
+some movement in itself. The director has to analyze this movement
 
 15
-0:00:59,275 --> 0:01:02,724
-At the same time we record a draft voice soundtrack.
+00:00:56,700 --> 00:00:59,590
+and to understand what the author meant by it.
 
 16
-0:01:02,749 --> 0:01:06,875
-We’re just reading the text aloud here.
+00:00:59,680 --> 00:01:03,130
+At the same time we record a draft voice soundtrack.
 
 17
-0:01:06,876 --> 0:01:08,391
-Good morning Sir,
+00:01:03,150 --> 00:01:07,280
+We’re just reading the text aloud here.
 
 18
-0:01:08,416 --> 0:01:10,868
-I would like eight pumpkin stars, please
+00:01:07,280 --> 00:01:08,800
+Good morning Sir,
 
 19
-0:01:10,893 --> 0:01:13,851
-Here you are. That's 60 Ko.
+00:01:08,820 --> 00:01:11,270
+I would like eight pumpkin stars, please
 
 20
-0:01:13,876 --> 0:01:16,169
-Oh dear...
+00:01:11,300 --> 00:01:14,260
+Here you are. That's 60 Ko.
 
 21
-0:01:17,574 --> 0:01:21,362
-Uhh sorry, I'll have to take only four.
+00:01:14,280 --> 00:01:16,570
+Oh dear...
 
 22
-0:01:21,387 --> 0:01:22,553
-Grrr!
-
-23
-0:01:22,578 --> 0:01:25,849
-We read aloud and record the words to understand
-
-24
-0:01:25,874 --> 0:01:29,593
-how much time the dialog will take and get its tempo right.
-
-25
-0:01:29,634 --> 0:01:32,325
-Simultaneously, we select the music tracks.
-
-26
-0:01:32,350 --> 0:01:35,831
-So, we create a draft soundtrack and
-
-27
-0:01:35,856 --> 0:01:38,139
-combine it with the draft visual.
-
-28
-0:01:38,164 --> 0:01:41,331
-That's what we call an animatic.
-
-29
-0:01:41,356 --> 0:01:43,482
-It gives us the overall picture
-
-30
-0:01:43,507 --> 0:01:47,507
-and a general idea of what the animators need to do.
-
-31
-0:01:48,506 --> 0:01:50,230
-The potion contest
-
-32
-0:01:50,255 --> 0:01:53,059
-Lucky me, I still have a whole day to prepare!
-
-33
-0:01:53,084 --> 0:01:55,409
-Let's win this challenge!
-
-34
-0:01:55,434 --> 0:01:58,980
-During this process we discuss how we could
-
-35
-0:01:59,005 --> 0:02:02,508
-improve some moments that can be perfectly understandable in the original comic
-
-36
-0:02:02,533 --> 0:02:06,291
-but need some clarifications when turned into an animation.
-
-37
-0:02:06,316 --> 0:02:10,316
-So we have the comic, and in fact it has already been directed by the author, right?
-
-38
-0:02:10,341 --> 0:02:14,341
-The artist drew all of these scenes and arranged them on the page.
-
-39
-0:02:14,756 --> 0:02:19,178
-However while transforming all this into an animated sequence I see that some of these scenes
-
-40
-0:02:19,203 --> 0:02:24,125
-need something in between, which will connect the previous scene with the next one.
-
-41
-0:02:24,150 --> 0:02:30,204
-That’s why sometimes I’m thinking about how to improve the sequence by adding new elements or even whole shots.
-
-42
-0:02:30,229 --> 0:02:34,378
-For instance, let's look at this scene with Saffron and the coins.
-
-43
-0:02:34,403 --> 0:02:37,354
-I thought it would be nice to take a close-up
-
-44
-0:02:37,379 --> 0:02:39,775
-and show her tossing them.
-
-45
-0:02:39,959 --> 0:02:44,338
-There's no such frame in the original comic, but it connects the scenes
-
-46
-0:02:44,363 --> 0:02:48,862
-that were there quite well.
-
-47
-0:02:48,887 --> 0:02:51,894
-When the animatic is ready, we step into the Production phase.
-
-48
-0:02:51,919 --> 0:02:55,919
-As director of this episode, I have the whole picture in my head
-
-49
-0:02:55,944 --> 0:02:59,632
-and know how every single scene works. Once all of the scenes are arranged into the animatic, I start assigning the tasks
-
-50
-0:02:59,657 --> 0:03:03,657
-to the painters and animators.
-
-51
-0:03:08,759 --> 0:03:12,077
-Every picture has to be cut into parts.
-
-52
-0:03:12,102 --> 0:03:15,861
-The characters should be separated from the background.
-
-53
-0:03:15,886 --> 0:03:20,569
-Then we must reconstruct missing parts of the characters or objects,
-
-54
-0:03:20,594 --> 0:03:23,905
-because when the characters are removed from the background,
-
-55
-0:03:23,930 --> 0:03:26,513
-we must fill the empty space left behind them.
-
-56
-0:03:26,538 --> 0:03:30,997
-If a character is meant to move, then some parts of this character
-
-57
-0:03:31,022 --> 0:03:34,450
-need to be reconstructed and drawn by us. For example in a static picture the hand of the character
-
-58
-0:03:34,475 --> 0:03:37,267
-can be hidden behind another object. And if the character is moving the hand
-
-59
-0:03:37,292 --> 0:03:39,251
-then it must also be drawn by us.
-
-60
-0:03:39,276 --> 0:03:41,712
-Another common case is blinking. We have to draw
-
-61
-0:03:41,737 --> 0:03:44,656
-closed eyes, opened eyes and half-opened eyes.
-
-62
-0:03:44,681 --> 0:03:47,037
-I always try to carefully analyze each shot, and formulate the task so that the artist only has to do what's necessary
-
-63
-0:03:47,062 --> 0:03:50,450
-because I already know which elements are going to be animated
-
-64
-0:03:50,475 --> 0:03:53,228
-and which are not. So I just say
-
-65
-0:03:53,253 --> 0:03:56,331
-this part should be separated and that part should not be.
-
-66
-0:03:56,356 --> 0:03:59,029
-This task is done by our painting artists.
-
-67
-0:03:59,054 --> 0:04:02,482
-My task is to draw the missing parts
-
-68
-0:04:02,507 --> 0:04:05,974
-and prepare the artwork for animation.
-
-69
-0:04:06,823 --> 0:04:11,694
-For drawing and editing pictures we use Krita open source software.
-
-70
-0:04:12,062 --> 0:04:16,534
-I draw any missing details for the characters, the positions of eyes and mouths,
-
-71
-0:04:16,559 --> 0:04:21,337
-I also draw backgrounds and some other elements.
-
-72
-0:04:21,362 --> 0:04:26,297
-Once that's all done, the animators will be able to create movement out of these artwork elements.
-
-73
-0:04:26,322 --> 0:04:31,077
-In some cases we have to redraw some frames of the comic
-
-74
-0:04:31,102 --> 0:04:36,672
-and the changes can be quite dramatic.
-
-75
-0:04:36,697 --> 0:04:40,680
-Sometimes we can even change the lighting
-
-76
-0:04:40,705 --> 0:04:45,521
-or composition of the frame. For instance in the sixth scene...
-
-77
-0:04:46,769 --> 0:04:48,791
+00:01:17,980 --> 00:01:21,770
 Uhh sorry, I'll have to take only four.
 
-78
-0:04:48,816 --> 0:04:50,339
+23
+00:01:21,790 --> 00:01:22,960
 Grrr!
 
+24
+00:01:22,980 --> 00:01:26,250
+We read aloud and record the words to understand
+
+25
+00:01:26,280 --> 00:01:30,000
+how much time the dialog will take and get its tempo right.
+
+26
+00:01:30,040 --> 00:01:32,730
+Simultaneously, we select the music tracks.
+
+27
+00:01:32,760 --> 00:01:36,240
+So, we create a draft soundtrack and
+
+28
+00:01:36,260 --> 00:01:38,540
+combine it with the draft visual.
+
+29
+00:01:38,570 --> 00:01:41,740
+That's what we call an animatic.
+
+30
+00:01:41,760 --> 00:01:43,890
+It gives us the overall picture
+
+31
+00:01:43,910 --> 00:01:47,910
+and a general idea of what the animators need to do.
+
+32
+00:01:48,910 --> 00:01:50,640
+The potion contest
+
+33
+00:01:50,660 --> 00:01:53,460
+Lucky me, I still have a whole day to prepare!
+
+34
+00:01:53,490 --> 00:01:55,810
+Let's win this challenge!
+
+35
+00:01:55,840 --> 00:01:59,390
+During this process we discuss how we could
+
+36
+00:01:59,410 --> 00:02:02,910
+improve some moments that can be perfectly understandable in the original comic
+
+37
+00:02:02,940 --> 00:02:06,700
+but need some clarifications when turned into an animation.
+
+38
+00:02:06,720 --> 00:02:10,720
+So we have the comic, and in fact it has already been directed by the author, right?
+
+39
+00:02:10,750 --> 00:02:14,750
+The artist drew all of these scenes and arranged them on the page.
+
+40
+00:02:15,160 --> 00:02:19,580
+However while transforming all this into an animated sequence I see that some of these scenes
+
+41
+00:02:19,610 --> 00:02:24,530
+need something in between, which will connect the previous scene with the next one.
+
+42
+00:02:24,560 --> 00:02:30,610
+That’s why sometimes I’m thinking about how to improve the sequence by adding new elements or even whole shots.
+
+43
+00:02:30,630 --> 00:02:34,780
+For instance, let's look at this scene with Saffron and the coins.
+
+44
+00:02:34,810 --> 00:02:37,760
+I thought it would be nice to take a close-up
+
+45
+00:02:37,780 --> 00:02:40,180
+and show her tossing them.
+
+46
+00:02:40,360 --> 00:02:44,740
+There's no such frame in the original comic, but it connects the scenes
+
+47
+00:02:44,770 --> 00:02:49,270
+that were there quite well.
+
+48
+00:02:49,290 --> 00:02:52,300
+When the animatic is ready, we step into the Production phase.
+
+49
+00:02:52,320 --> 00:02:56,320
+As director of this episode, I have the whole picture in my head
+
+50
+00:02:56,350 --> 00:03:00,760
+and know how every single scene works. Once all of the scenes are arranged into the animatic, I start assigning the tasks
+
+51
+00:03:01,060 --> 00:03:05,060
+to the painters and animators.
+
+52
+00:03:10,160 --> 00:03:13,480
+Every picture has to be cut into parts.
+
+53
+00:03:13,510 --> 00:03:17,270
+The characters should be separated from the background.
+
+54
+00:03:17,290 --> 00:03:21,970
+Then we must reconstruct missing parts of the characters or objects,
+
+55
+00:03:22,000 --> 00:03:25,310
+because when the characters are removed from the background,
+
+56
+00:03:25,340 --> 00:03:27,920
+we must fill the empty space left behind them.
+
+57
+00:03:27,940 --> 00:03:32,400
+If a character is meant to move, then some parts of this character
+
+58
+00:03:32,430 --> 00:03:35,860
+need to be reconstructed and drawn by us. For example in a static picture the hand of the character
+
+59
+00:03:35,880 --> 00:03:38,670
+can be hidden behind another object. And if the character is moving the hand
+
+60
+00:03:38,700 --> 00:03:40,660
+then it must also be drawn by us.
+
+61
+00:03:40,680 --> 00:03:43,120
+Another common case is blinking. We have to draw
+
+62
+00:03:43,140 --> 00:03:46,060
+closed eyes, opened eyes and half-opened eyes.
+
+63
+00:03:46,090 --> 00:03:48,440
+I always try to carefully analyze each shot, and formulate the task so that the artist only has to do what's necessary
+
+64
+00:03:48,470 --> 00:03:51,860
+because I already know which elements are going to be animated
+
+65
+00:03:51,880 --> 00:03:54,630
+and which are not. So I just say
+
+66
+00:03:54,660 --> 00:03:58,580
+this part should be separated and that part should not be.
+
+67
+00:03:58,760 --> 00:04:01,430
+This task is done by our painting artists.
+
+68
+00:04:02,460 --> 00:04:05,890
+My task is to draw the missing parts
+
+69
+00:04:05,910 --> 00:04:09,380
+and prepare the artwork for animation.
+
+70
+00:04:10,230 --> 00:04:15,100
+For drawing and editing pictures we use Krita open source software.
+
+71
+00:04:15,470 --> 00:04:19,940
+I draw any missing details for the characters, the positions of eyes and mouths,
+
+72
+00:04:19,960 --> 00:04:24,740
+I also draw backgrounds and some other elements.
+
+73
+00:04:24,770 --> 00:04:29,700
+Once that's all done, the animators will be able to create movement out of these artwork elements.
+
+74
+00:04:29,730 --> 00:04:34,480
+In some cases we have to redraw some frames of the comic
+
+75
+00:04:34,510 --> 00:04:40,080
+and the changes can be quite dramatic.
+
+76
+00:04:40,100 --> 00:04:44,090
+Sometimes we can even change the lighting
+
+77
+00:04:44,110 --> 00:04:48,930
+or composition of the frame. For instance in the sixth scene...
+
+78
+00:04:50,170 --> 00:04:52,200
+Uhh sorry, I'll have to take only four.
+
 79
-0:04:50,364 --> 0:04:51,847
-Greetings, good Sir!
+00:04:52,220 --> 00:04:53,740
+Grrr!
 
 80
-0:04:51,872 --> 0:04:57,085
-We decided to remove the fruits and vegetables to focus on the characters.
+00:04:53,770 --> 00:04:55,250
+Greetings, good Sir!
 
 81
-0:04:57,110 --> 0:05:00,497
-There were too many details and the scene was overloaded.
+00:04:55,280 --> 00:05:00,490
+We decided to remove the fruits and vegetables to focus on the characters.
 
 82
-0:05:00,522 --> 0:05:04,783
-So we redesigned the composition
+00:05:00,520 --> 00:05:03,900
+There were too many details and the scene was overloaded.
 
 83
-0:05:04,808 --> 0:05:07,521
-and extended the background to take a panoramic shot.
+00:05:03,930 --> 00:05:08,190
+So we redesigned the composition
 
 84
-0:05:07,546 --> 0:05:10,537
-Of course, it was very important to keep the original author's style
+00:05:08,210 --> 00:05:10,930
+and extended the background to take a panoramic shot.
 
 85
-0:05:10,562 --> 0:05:15,482
-and make it fit with all the other drawings.
+00:05:10,950 --> 00:05:13,940
+Of course, it was very important to keep the original author's style
 
 86
-0:05:17,727 --> 0:05:23,497
-At the next stage we import all the artwork into Blender.
+00:05:13,970 --> 00:05:18,890
+and make it fit with all the other drawings.
 
 87
-0:05:24,428 --> 0:05:28,428
-We have to arrange all the pieces correctly, and put everything in place
+00:05:21,130 --> 00:05:26,900
+At the next stage we import all the artwork into Blender.
 
 88
-0:05:28,453 --> 0:05:32,642
-and link all the parts to the bones.
+00:05:27,830 --> 00:05:31,830
+We have to arrange all the pieces correctly, and put everything in place
 
 89
-0:05:32,667 --> 0:05:35,855
-This work is done by a rigger.
+00:05:31,860 --> 00:05:36,050
+and link all the parts to the bones.
 
 90
-0:05:35,880 --> 0:05:40,243
-In this project we have the same person responsible for assembling scenes and rigging.
+00:05:36,070 --> 00:05:39,260
+This work is done by a rigger.
 
 91
-0:05:41,539 --> 0:05:47,664
-We use the CoaTools plugin to simplify the process of preparing artwork for animation.
+00:05:39,290 --> 00:05:43,650
+In this project we have the same person responsible for assembling scenes and rigging.
 
 92
-0:05:51,452 --> 0:05:56,394
-The animators do the final version of movement, what you actually will see on the screen.
+00:05:44,940 --> 00:05:51,070
+We use the CoaTools plugin to simplify the process of preparing artwork for animation.
 
 93
-0:05:56,419 --> 0:06:01,990
-The animation is the most time-consuming phase. Here we concentrate on
+00:05:54,860 --> 00:05:59,800
+The animators do the final version of movement, what you actually will see on the screen.
 
 94
-0:06:02,015 --> 0:06:06,243
-creating the actual movement. We have to make sure it looks good.
+00:05:59,820 --> 00:06:05,400
+The animation is the most time-consuming phase. Here we concentrate on
 
 95
-0:06:06,268 --> 0:06:10,013
-The movement should fulfill the director's idea and fit the tempo
+00:06:05,420 --> 00:06:09,650
+creating the actual movement. We have to make sure it looks good.
 
 96
-0:06:10,038 --> 0:06:13,347
-and composition defined in the animatic.
+00:06:09,670 --> 00:06:13,420
+The movement should fulfill the director's idea and fit the tempo
 
 97
-0:06:13,372 --> 0:06:17,372
-The animator develops the main movement with all necessary details.
+00:06:13,440 --> 00:06:16,750
+and composition defined in the animatic.
 
 98
-0:06:17,397 --> 0:06:21,397
-If a character is walking then they have to move their legs
+00:06:16,780 --> 00:06:20,780
+The animator develops the main movement with all necessary details.
 
 99
-0:06:21,422 --> 0:06:26,918
-arms, shoulders and head. And if they are speaking, they must have
+00:06:20,800 --> 00:06:24,800
+If a character is walking then they have to move their legs
 
 100
-0:06:26,943 --> 0:06:29,955
-their lips moving and eyes blinking,
+00:06:24,830 --> 00:06:30,320
+arms, shoulders and head. And if they are speaking, they must have
 
 101
-0:06:29,980 --> 0:06:34,272
-The hair and clothes also should move as the character moves.
+00:06:30,350 --> 00:06:33,360
+their lips moving and eyes blinking,
 
 102
-0:06:34,297 --> 0:06:36,891
-For animation we use Blender.
+00:06:33,390 --> 00:06:37,680
+The hair and clothes also should move as the character moves.
 
 103
-0:06:36,916 --> 0:06:40,463
-Blender is known as a powerful open-source software for creating
+00:06:37,700 --> 00:06:40,300
+For animation we use Blender.
 
 104
-0:06:40,488 --> 0:06:46,455
-3D animation and models. But in this project we use it to create a 2D animated comic.
+00:06:40,320 --> 00:06:43,870
+Blender is known as a powerful open-source software for creating
 
 105
-0:06:46,480 --> 0:06:51,216
-It fits this purpose quite well.
+00:06:43,890 --> 00:06:49,860
+3D animation and models. But in this project we use it to create a 2D animated comic.
 
 106
-0:06:51,241 --> 0:06:55,264
-Especially being used together with the CoaTools plug-in.
+00:06:49,890 --> 00:06:54,620
+It fits this purpose quite well.
 
 107
-0:06:55,289 --> 0:06:59,331
-There are some more peculiar things in our work.
+00:06:54,650 --> 00:06:58,670
+Especially being used together with the CoaTools plug-in.
 
 108
-0:06:59,355 --> 0:07:03,220
-For example creating special effects with Particle Systems.
+00:06:58,690 --> 00:07:02,740
+There are some more peculiar things in our work.
 
 109
-0:07:03,245 --> 0:07:05,164
-There is no point in drawing the smoke when we can create it
+00:07:02,760 --> 00:07:06,630
+For example creating special effects with Particle Systems.
 
 110
-0:07:05,189 --> 0:07:09,093
-using simulation in just two clicks.
+00:07:06,650 --> 00:07:08,570
+There is no point in drawing the smoke when we can create it
 
 111
-0:07:09,118 --> 0:07:13,537
-We often use particle systems for creating some small effects, like dust on the wind, sparkles, etc.
+00:07:08,590 --> 00:07:12,500
+using simulation in just two clicks.
 
 112
-0:07:13,562 --> 0:07:18,299
-They look very good and entertaining on backgrounds.
+00:07:12,520 --> 00:07:16,940
+We often use particle systems for creating some small effects, like dust on the wind, sparkles, etc.
 
 113
-0:07:20,958 --> 0:07:23,656
-And of course after the animation is finished
+00:07:16,970 --> 00:07:21,700
+They look very good and entertaining on backgrounds.
 
 114
-0:07:23,681 --> 0:07:27,259
-there will be a final voicing. We send the final animation to the actors
+00:07:24,360 --> 00:07:27,060
+And of course after the animation is finished
 
 115
-0:07:27,284 --> 0:07:30,910
-who will do the professional voicing.
+00:07:27,090 --> 00:07:30,660
+there will be a final voicing. We send the final animation to the actors
 
 116
-0:07:30,935 --> 0:07:35,831
-They record the voices, then everything is mixed with the sound effects and music
+00:07:30,690 --> 00:07:34,320
+who will do the professional voicing.
 
 117
-0:07:35,856 --> 0:07:38,886
-and then we will have a finished episode.
+00:07:34,340 --> 00:07:39,240
+They record the voices, then everything is mixed with the sound effects and music
 
 118
-0:07:42,513 --> 0:07:47,091
-Our production process is completely transparent.
+00:07:39,260 --> 00:07:42,290
+and then we will have a finished episode.
 
 119
-0:07:47,116 --> 0:07:52,086
-There is a link in the description of this video, which points to our list of tasks.
+00:07:45,920 --> 00:07:50,500
+Our production process is completely transparent.
 
 120
-0:07:52,111 --> 0:07:56,111
-You can open it and see what we are currently working on.
+00:07:50,520 --> 00:07:55,490
+There is a link in the description of this video, which points to our list of tasks.
 
 121
-0:07:56,136 --> 0:07:59,524
-You can see precisely who is working on which task.
+00:07:55,520 --> 00:07:59,520
+You can open it and see what we are currently working on.
 
 122
-0:07:59,549 --> 0:08:03,291
-And see the process of work and discussion in its topic.
+00:07:59,540 --> 00:08:02,930
+You can see precisely who is working on which task.
 
 123
-0:08:03,316 --> 0:08:09,864
-For example here we can see a task for animation.
+00:08:02,950 --> 00:08:06,700
+And see the process of work and discussion in its topic.
 
 124
-0:08:09,889 --> 0:08:13,889
-We can see all the intermediate versions which are being discussed with the director.
+00:08:06,720 --> 00:08:13,270
+For example here we can see a task for animation.
 
 125
-0:08:13,914 --> 0:08:18,328
-And here is the final variant.
+00:08:13,290 --> 00:08:17,290
+We can see all the intermediate versions which are being discussed with the director.
 
 126
-0:08:18,353 --> 0:08:22,970
-Or here is another example - the task for preparing artwork
+00:08:17,320 --> 00:08:21,730
+And here is the final variant.
 
 127
-0:08:22,995 --> 0:08:28,804
-There we have a task description which explains how to cut this picture.
+00:08:21,760 --> 00:08:26,380
+Or here is another example - the task for preparing artwork
 
 128
-0:08:28,829 --> 0:08:33,905
-The artist posts the interim steps of the work
+00:08:26,400 --> 00:08:32,210
+There we have a task description which explains how to cut this picture.
 
 129
-0:08:33,931 --> 0:08:37,931
-for everybody to be able to see and other team members can discuss it.
+00:08:32,230 --> 00:08:37,310
+The artist posts the interim steps of the work
 
 130
-0:08:37,956 --> 0:08:41,653
-The director can make corrections here
+00:08:37,340 --> 00:08:41,340
+for everybody to be able to see and other team members can discuss it.
 
 131
-0:08:41,678 --> 0:08:44,780
-or say "everything is great".
+00:08:41,360 --> 00:08:45,060
+The director can make corrections here
 
 132
-0:08:45,466 --> 0:08:50,599
-At the moment we are working on the third episode. This episode is less complicated than the previous one.
+00:08:45,080 --> 00:08:48,190
+or say "everything is great".
 
 133
-0:08:50,624 --> 0:08:54,511
-However I think that it will take us
+00:08:48,870 --> 00:08:54,000
+At the moment we are working on the third episode. This episode is less complicated than the previous one.
 
 134
-0:08:54,536 --> 0:08:58,536
-about four months to finish it. We plan to start production of another episode in parallel soon.
+00:08:54,030 --> 00:08:57,920
+However I think that it will take us
 
 135
-0:08:58,561 --> 0:09:03,139
-And which episode it will be - will be decided by the voting of our sponsors
+00:08:57,940 --> 00:09:01,940
+about four months to finish it. We plan to start production of another episode in parallel soon.
 
 136
-0:09:03,164 --> 0:09:06,013
-who support us on the Patreon platform.
+00:09:01,970 --> 00:09:06,540
+And which episode it will be - will be decided by the voting of our sponsors
 
 137
-0:09:06,038 --> 0:09:10,038
-We will continue showing our work process in upcoming backstage videos.
+00:09:06,570 --> 00:09:09,420
+who support us on the Patreon platform.
 
 138
-0:09:10,063 --> 0:09:13,530
-Also you can track our progress
+00:09:09,440 --> 00:09:13,440
+We will continue showing our work process in upcoming backstage videos.
 
 139
-0:09:13,555 --> 0:09:17,181
-by following us on social media.
+00:09:13,470 --> 00:09:16,940
+Also you can track our progress
 
 140
-0:09:17,206 --> 0:09:20,752
-See all relevant links in the description of this video.
+00:09:16,960 --> 00:09:20,590
+by following us on social media.
 
 141
-0:09:20,777 --> 0:09:24,014
+00:09:20,610 --> 00:09:24,160
+See all relevant links in the description of this video.
+
+142
+00:09:24,180 --> 00:09:27,420
 And that’s all for today! Thank you for watching and see you next time.
 

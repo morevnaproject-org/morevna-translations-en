@@ -1,6 +1,6 @@
 1
 00:00:00,000 -> 00:00:03,840
-Project "Morevna" presents
+Morevna Project presents
 
 2
 00:00:10.040 -> 00:00:15,000
@@ -12,15 +12,15 @@ Hello, my name is Konstantin Dmitriev.
 
 4
 00:00:19,000 -> 00:00:22,020
-I am responsible for the production of an motion comic
+I am production manager of "Pepper & Carrot" motion comic
 
 5
 00:00:23.020 -> 00:00:25.940
-"Pepper & Carrot", based on a comic strip by artist David Revoie
+which is based on a comic by David Revoy
 
 6
 00:00:40.020 -> 00:00:43,000
-In this issue I invite you
+In this video I invite you
 
 7
 00:00:43,000 -> 00:00:45,000
@@ -48,7 +48,7 @@ and what tasks we are facing
 
 13
 00:01:01.040 -> 00:01:04.000
-"Here you are! Sixty Co's for all."
+"Here you are! That's sixty Ko."
 
 14
 00:01:05,000 -> 00:01:07,000
@@ -56,84 +56,82 @@ Yes! Yes!
 
 15
 00:01:10,000 -> 00:01:13,020
-Show a little bit of action ... Wasn't enough ... Why is it all difficult for her ...
+I am missing more action here... To show how much it all difficult for her...
 
 16
 00:01:14.020 -> 00:01:16,000
-Maybe add one frame, at least there ...
+Maybe add extra scene, at least one there...
 
 17
 00:01:16,040 -> 00:01:19,000
-Well! I like everything according to the rhythm ...
+In all other aspects I like everything. And the rhythm too...
 
 18
 00:01:20.020 -> 00:01:23.980
-That's all, Carrot! I think, I have all the necessary.
+That's it, Carrot! I think, I have everything I need.
 
 19
 00:01:24.600 -> 00:01:26.480
-And then you can make a departure. Yes.
+And then we can make a zoom out. Yes.
 
 20
 00:01:26.680 -> 00:01:28.660
-And make the transparency ... Replace with another ... Yes.
+And do transition through changing opacity... Yes.
 
 21
 00:01:29.020 -> 00:01:34.000
-Then, this will be one task:draw Pepper and a large udder.
+Then, this will be one task - to draw Pepper and a closeup of the udder.
 
 22
 00:01:35.020 -> 00:01:40.000
-By the way, I don't like the tail a little. This bump on the tail.
+By the way, I don't like the tail here. This bump on the tail.
 
 23
 00:01:40.040 -> 00:01:45.000
-This is how it was? - No, I finished it ...
+That was in original? - No, I did it...
 
 24
 00:01:46.020 -> 00:01:48.000
-Well, let it be as well as a dragon, like this ...
+Well, how about to make it like dragon's tail?
 
 25
 00:01:49,000 -> 00:01:51,980
-Students also came to our studio
+Today our teenager students also came
 
 26
 00:01:52.040 -> 00:01:55.000
-teenagers who study in our studio.
+to our studio.
 
 27
 00:01:56.020 -> 00:01:58.000
-Some of them help us work on the comic strip.
+Some of them help us with production of motion comic.
 
 28
 00:01:58.040 -> 00:02:01.000
-Particularly, they prepare for animation
+They are helping us to prepare artwork
 
 29
 00:02:01.060 -> 00:02:02.000
-other episodes,
+for other episodes,
 
-thirty
 00:02:02,060 -> 00:02:04,000
 which we plan to launch in the future.
 
 31
 00:02:05.020 -> 00:02:10,000
-We prepare material for subsequent animation processing
+We prepare artwork for animation.
 
 32
 00:02:10.060 -> 00:02:13.220
-which can move.
-Separating characters and objects
+That means separating characters and objects
 
 33
 00:02:13,220 -> 00:02:15,000
-which can move.
+from background.
 
 34
 00:02:18.020 -> 00:02:23.040
-Did you make this one? - Yes, I did.
+So, you finished this one? - Yes, I did.
 
 35
 00:02:23.080 -> 00:02:24.980
@@ -157,27 +155,27 @@ Well, that's all!
 
 40
 00:02:54.040 -> 00:02:56,000
-If you want to follow our updates,
+As usual, you can track our progress
 
 41
 00:02:56.040 -> 00:02:58,000
-subscribe to our social media profiles.
+by subscribing to us on social media.
 
 42
 00:02:58.040 -> 00:03:01.000
-Links in the description as always.
+See all relevant links in the description of this video.
 
 43
 00:03:01.440 -> 00:03:03.380
-We will continue to cover the work process
+We will continue showing our work process
 
 44
 00:03:03.600 -> 00:03:05.880
-over the motion comic "Pepper & Carrot"
+on the motion comic "Pepper & Carrot".
 
 45
 00:03:06,040 -> 00:03:09,000
-See you in the next issues! See you there!
+Thank you for watching and see you next time! Goodbye!
 
 46
 00:03:14.020 -> 00:03:14.980
@@ -185,7 +183,7 @@ Well, that's all!
 
 47
 00:03:16,040 -> 00:03:19,000
-You can follow our work process.
+As usual, you can track our progress...
 
 48
 00:03:20.040 -> 00:03:22.000
